@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=bidhan948&color=green)
 
 ## Hey there! 👋
 
