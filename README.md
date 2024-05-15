@@ -42,7 +42,17 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![E-commerce Expert](https://img.shields.io/badge/E--commerce%20Expert-FF5733?style=for-the-badge&logo=shopify&logoColor=white)
 ![Mirth Connect](https://img.shields.io/badge/Mirth%20Connect-087AA3?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![HL7](https://img.shields.io/badge/HL7-0170FE?style=for-the-badge&logo=hl7&logoColor=white)
+![Healthcare IT](https://img.shields.io/badge/Healthcare_IT-0072C6?style=for-the-badge&logo=medapps&logoColor=white)
+![Codewars](https://www.codewars.com/users/bidhan948/badges/micro)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=cloud&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Package Developer](https://img.shields.io/badge/Package%20Developer-007ACC?style=for-the-badge&logo=packagist&logoColor=white)
+
+
+
