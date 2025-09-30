@@ -11,7 +11,7 @@
 
 ## ✨ Highlights
 - ✅ **7+ years** delivering production-grade apps
-- 🏛️ **GovTech** (3 yrs) • ⚕️ **HMIS** (2 yrs) • 🛒 **E-commerce** • 🧱 **Microservices**
+- 🏛️ **GovTech** (3 yrs) • ⚕️ **HMIS** (3 yrs) • 🛒 **E-commerce** • 🧱 **Microservices**
 - 🔌 HL7, **Mirth Connect**, **DICOM**, REST & WebSocket integrations
 - 📈 Obsessed with clean architecture, performance, and DX
 
